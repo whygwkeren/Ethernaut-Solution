@@ -3,4 +3,7 @@ src = 'src'
 out = 'out'
 libs = ['lib']
 
+eth_rpc_url = 'https://arb-goerli.g.alchemy.com/v2/USGbjq3mZEeLZdfoE2teMwbJnMuTKczC'
+etherscan_api_key = 'USGbjq3mZEeLZdfoE2teMwbJnMuTKczC'
+
 # See more config options https://github.com/foundry-rs/foundry/tree/master/config
