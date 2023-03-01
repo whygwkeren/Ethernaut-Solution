@@ -1,0 +1,49 @@
+{
+  "transactions": [
+    {
+      "hash": "0xe0a99acb5e9ef55317f20373d2e5a0236ddd7152490ae0f4fc7f53eaaa15da17",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x4e333860bB2b1E11562C3a59aa2c69dA5cBFeB56",
+      "function": null,
+      "arguments": null,
+      "rpc": "https://arb-goerli.g.alchemy.com/v2/USGbjq3mZEeLZdfoE2teMwbJnMuTKczC",
+      "transaction": {
+        "type": "0x00",
+        "from": "0xa36aca10170185f663c804f36e69d6ba0c62ced5",
+        "to": "0x4e333860bb2b1e11562c3a59aa2c69da5cbfeb56",
+        "gas": "0x117fe",
+        "value": "0x0",
+        "data": "0xa9059cbb00000000000000000000000096a2de23725d66c7f72df1fb6b5db60f66dd22100000000000000000000000000000000000000000000000000000000000000015",
+        "nonce": "0x62"
+      },
+      "additionalContracts": []
+    }
+  ],
+  "receipts": [
+    {
+      "transactionHash": "0xe0a99acb5e9ef55317f20373d2e5a0236ddd7152490ae0f4fc7f53eaaa15da17",
+      "transactionIndex": "0x1",
+      "blockHash": "0x86d502ac42b050a20cc745ef44a823e1e3d76dfb71f0d24fdef7704a968bfb4d",
+      "blockNumber": "0x912cf6",
+      "from": "0xA36ACa10170185F663C804f36e69D6BA0C62CED5",
+      "to": "0x4e333860bB2b1E11562C3a59aa2c69dA5cBFeB56",
+      "cumulativeGasUsed": "0xd1ea",
+      "gasUsed": "0xd1ea",
+      "contractAddress": null,
+      "logs": [],
+      "status": "0x1",
+      "logsBloom": "0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+      "type": "0x0",
+      "effectiveGasPrice": "0x5f5e100"
+    }
+  ],
+  "libraries": [],
+  "pending": [],
+  "path": "/home/gizka/belajar/foundry/ethernaut/broadcast/Token.s.sol/421613/run-latest.json",
+  "returns": {},
+  "timestamp": 1677652274,
+  "chain": 421613,
+  "multi": false,
+  "commit": "b6782c4"
+}
