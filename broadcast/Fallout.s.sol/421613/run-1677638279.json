@@ -1,0 +1,49 @@
+{
+  "transactions": [
+    {
+      "hash": "0xd2bd9074c60562219d6b4da590d32aa78c574d1b9a63f5b4d952f496c906cad6",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x49B8b74C81DD81533dA56075cc78E6060540f5AB",
+      "function": null,
+      "arguments": null,
+      "rpc": "https://arb-goerli.g.alchemy.com/v2/USGbjq3mZEeLZdfoE2teMwbJnMuTKczC",
+      "transaction": {
+        "type": "0x00",
+        "from": "0xa36aca10170185f663c804f36e69d6ba0c62ced5",
+        "to": "0x49b8b74c81dd81533da56075cc78e6060540f5ab",
+        "gas": "0xe80f",
+        "value": "0x0",
+        "data": "0x6fab5ddf",
+        "nonce": "0x4c"
+      },
+      "additionalContracts": []
+    }
+  ],
+  "receipts": [
+    {
+      "transactionHash": "0xd2bd9074c60562219d6b4da590d32aa78c574d1b9a63f5b4d952f496c906cad6",
+      "transactionIndex": "0x1",
+      "blockHash": "0x0b01da3a9029468cb9bf916682148cfdfb4dc192a40c976fb5e0c64c2b25db3b",
+      "blockNumber": "0x90ffc5",
+      "from": "0xA36ACa10170185F663C804f36e69D6BA0C62CED5",
+      "to": "0x49B8b74C81DD81533dA56075cc78E6060540f5AB",
+      "cumulativeGasUsed": "0xb226",
+      "gasUsed": "0xb226",
+      "contractAddress": null,
+      "logs": [],
+      "status": "0x1",
+      "logsBloom": "0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+      "type": "0x0",
+      "effectiveGasPrice": "0x5f5e100"
+    }
+  ],
+  "libraries": [],
+  "pending": [],
+  "path": "/home/gizka/belajar/foundry/ethernaut/broadcast/Fallout.s.sol/421613/run-latest.json",
+  "returns": {},
+  "timestamp": 1677638279,
+  "chain": 421613,
+  "multi": false,
+  "commit": "be3e824"
+}
