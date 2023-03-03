@@ -1,0 +1,35 @@
+{
+  "transactions": [
+    {
+      "hash": "0x4b2fd7e71d7c1fd7d6d972b9896ef87502026f1fbf567523365866a20f2ea929",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0xa77A6DC42Db1acf4950aCD049e3a108F456d8458",
+      "function": null,
+      "arguments": null,
+      "rpc": "https://eth-goerli.g.alchemy.com/v2/cQfkKawI11G2D7TAGYq8-Q_KvpAo-fre",
+      "transaction": {
+        "type": "0x02",
+        "from": "0xa36aca10170185f663c804f36e69d6ba0c62ced5",
+        "to": "0xa77a6dc42db1acf4950acd049e3a108f456d8458",
+        "gas": "0x8242",
+        "value": "0x0",
+        "data": "0xec9b5b3a412076657279207374726f6e67207365637265742070617373776f7264203a29",
+        "nonce": "0xc4",
+        "accessList": []
+      },
+      "additionalContracts": []
+    }
+  ],
+  "receipts": [],
+  "libraries": [],
+  "pending": [
+    "0x4b2fd7e71d7c1fd7d6d972b9896ef87502026f1fbf567523365866a20f2ea929"
+  ],
+  "path": "/home/gizka/belajar/foundry/ethernaut/broadcast/Vault.s.sol/5/run-latest.json",
+  "returns": {},
+  "timestamp": 1677811445,
+  "chain": 5,
+  "multi": false,
+  "commit": "a4e3181"
+}
